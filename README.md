@@ -2,6 +2,7 @@
 Dockerfile to build logstash with amazon-es plugin installed
 Disables Xpack config file
 
+[![Docker Repository on Quay](https://quay.io/repository/lanefu/logstash-aws-es/status "Docker Repository on Quay")](https://quay.io/repository/lanefu/logstash-aws-es)
 
 ## Suggested Improvements
 [ ] multiarch build based on official dockerfile
